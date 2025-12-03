@@ -11,7 +11,7 @@ Focuses on integrating **circular economy** principles and **adaptive modelling*
 
 ## Repository structure
 Paper/ – full perspective (PDF)  
-Figures/ – optional visuals or cover image  
+Figures/ – PFAS life cycle 
 
 ## Summary
 The paper proposes embedding **digital twins** into circular process networks to enable:
